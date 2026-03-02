@@ -1,16 +1,26 @@
 ## Hi there 👋
+I am Shagun Tripathi. 
+SAP ABAP Developer | ERP Solutions | S/4 HANA 
+📌 Available for Hire | Immediate Joiner
 
-<!--
-**shagun-tri/shagun-tri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an SAP ABAP Developer with 2.5 years of experience in designing, implementing, and optimizing ERP solutions. 
+- Worked on Data Dictionary, function modules, BDC and LSMW. Worked on RICEF objects.
+- Developed and maintenance of classical and ALV reports, and smartforms. Designed, analysed and debugged programs.
 
-Here are some ideas to get you started:
+## Skills
+- ABAP Programming
+- Data Dictionary
+- ALV reports
+- Modularization (Includes, Function modules)
+- Data Migration/Conversions (BDC, LSMW)
+- Performance Optimization
+- Smartforms
+- ODATA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career Goals
+I am currently seeking opportunities as an SAP ABAP Developer where I can contribute to ERP optimization and digital transformation projects.
+📌 Available for full‑time roles.
+
+## 🌐 Connect 
+- 📧 Email: your.email@example.com
+- 🔗 LinkedIn: linkedin.com/in/shagun-tripathi-99498a181
