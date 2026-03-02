@@ -22,5 +22,5 @@ I am an SAP ABAP Developer with 2.5 years of experience in designing, implementi
 - 📌 Available for full‑time roles.
 
 ## 🌐 Connect 
-- 📧 Email: your.email@example.com
+- 📧 Email: shaguntripathi32@gmail.com
 - 🔗 LinkedIn: linkedin.com/in/shagun-tripathi-99498a181
