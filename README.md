@@ -12,6 +12,7 @@ I am an SAP ABAP Developer with 2.5 years of experience in designing, implementi
 - Data Dictionary
 - ALV reports
 - Modularization (Includes, Function modules)
+- Module Pool Programming
 - Data Migration/Conversions (BDC, LSMW)
 - Performance Optimization
 - Smartforms
